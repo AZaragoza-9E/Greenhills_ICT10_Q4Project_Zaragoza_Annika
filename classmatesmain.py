@@ -9,9 +9,9 @@ class student:
         self.favoritesubject = favoritesubject
 
 student = [
-    student("James", "Emerald", "SS"),
-    student("Kyla", "Emerald", "Math"),
     student("Allie", "Emerald", "Values Education"),
+    student("Kyla", "Emerald", "Math"),
+    student("James", "Emerald", "SS"),
     student("Sofia", "Emerald", "ICT"),
 ]
 
